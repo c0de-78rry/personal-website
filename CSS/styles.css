@@ -65,11 +65,13 @@ hr {
     margin-top: 6%;
     margin-bottom: 6%;
 }
+
 .center {
     text-align: left;
     margin-left: auto;
     margin-right: auto;
 }
+
 td {
     padding: 20px;
     padding-bottom: 0;
@@ -78,6 +80,7 @@ td {
 .hobbies {
     padding-top: 7%;
 }
+
 .image {
     margin: 50px auto 50px auto;
 } 
@@ -101,11 +104,13 @@ a:hover {
     color: rgb(6, 123, 158);
     text-decoration: none;
 }
+
 .codecamp-link {
     color: #11999E;
     font-size: 85%;
     text-decoration: none;
 }
+
 .udemy-link {
     color: #11999E;
     font-size: 85%;
@@ -180,12 +185,13 @@ a:hover {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #283966;
 }
+
 .myButton:hover {
 	background:linear-gradient(to bottom, #4cb5df 5%, #4bcdd6 100%);
 	background-color:#47989e;
 }
+
 .myButton:active {
 	position:relative;
 	top:1px;
 }
-
